@@ -138,14 +138,14 @@ Makes the rickshaw move Slower.
 Village
 
 🤝 Contributors
-Your Name
+Rafid Abrar
 
-Friend's Name 1
+Adnan Hossain Ratul
 
-Friend's Name 2
+Iftekhar Ismail Swadheen
 
 <p align="center">
-This project was created for academic purposes at <b>Your University Name</b>.
+This project was created for academic purposes at <b>American International University-Bangladesh</b>.
 <br>
 Last updated: September 14, 2025.
 </p>
